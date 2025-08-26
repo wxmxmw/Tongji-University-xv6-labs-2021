@@ -1,0 +1,42 @@
+$ sleep
+need a param
+$ sleep 100
+$
+
+
+$ pingpong
+4: received ping
+3: received pong
+
+
+hart 1 starting
+hart 2 starting
+init: starting sh
+$ primes
+prime 2
+prime 3
+prime 5
+prime 7
+prime 11
+prime 13
+prime 17
+prime 19
+prime 23
+prime 29
+prime 31
+
+
+
+xv6 kernel is booting
+
+hart 2 starting
+hart 1 starting
+init: starting sh
+$ xargstest.sh
+exec xargstest.sh failed
+$ sh < xargstest.sh
+$ mkdir: a failed to create
+$ $ mkdir: c failed to create
+$ $ $ hello
+hello
+hello

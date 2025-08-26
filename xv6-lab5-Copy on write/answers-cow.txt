@@ -1,0 +1,31 @@
+hart 2 starting
+hart 1 starting
+init: starting sh
+$ cowtest
+simple: ok
+simple: ok
+three: ok
+three: ok
+three: ok
+file: ok
+ALL COW TESTS PASSED
+test opentest: OK
+test writetest: OK
+test writebig: OK
+test createtest: OK
+test openiput: OK
+test exitiput: OK
+test iput: OK
+test mem: OK
+test pipe1: OK
+test killstatus: OK
+test preempt: kill... wait... OK
+test exitwait: OK
+test rmdot: OK
+test fourteen: OK
+test bigfile: OK
+test dirfile: OK
+test iref: OK
+test forktest: OK
+test bigdir: OK
+ALL TESTS PASSED
